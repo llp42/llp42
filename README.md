@@ -42,20 +42,6 @@ installable PWA. Built as a five-person team with a Go backend.
 
 ---
 
-## Skills
-
-| Area | Skills |
-| --- | --- |
-| Programming | C, low-level programming, algorithms, functional and procedural programming |
-| Python | Python, Matplotlib, Bokeh |
-| Cloud & containers | AWS, Kubernetes, Istio, OpenShift, containers, autoscaling, YAML |
-| Systems | Linux, Bash, shell scripting |
-| Version control | Git, GitHub, GitLab, pull requests, open source |
-| Engineering | Software architecture, software engineering, SDLC |
-| Language | English — C1 Advanced (EF SET) |
-
----
-
 ## Certifications
 
 | Certification | Issuer | Issued |
